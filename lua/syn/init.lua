@@ -1,0 +1,2 @@
+require "syn.remap"
+
